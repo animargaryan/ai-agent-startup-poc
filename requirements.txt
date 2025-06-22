@@ -1,0 +1,17 @@
+# LangChain, OpenAI for agent framework and tool management.
+langchain>=0.0.147
+openai>=1.88.0
+langchain-openai>=0.3.24
+
+# Pinecone for vector DB
+pinecone>=7.2.0
+
+# Tools for scraping YC site to populate fresh json
+selenium>=4.33.0
+webdriver_manager>=4.0.2
+tqdm>=4.67.1
+
+google_api_python_client>=2.172.0
+grpcio>=1.73.0
+
+pydantic>=2.11.7

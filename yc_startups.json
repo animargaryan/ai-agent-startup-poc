@@ -1,0 +1,302 @@
+[
+  {
+    "name": "DoorDash",
+    "tagline": "Restaurant delivery.",
+    "industry": "MARKETPLACE",
+    "description": "Founded in 2013, DoorDash is a San Francisco-based technology company passionate about transforming local businesses and dedicated to enabling new ways of working, earning, and living. Today, DoorDash connects customers with their favorite local and national restaurants in more than 600 cities across the United States and Canada. By building intelligent, last-mile delivery technology for local cities, DoorDash aims to connect people with the things they care about \u2014 one dash at a time. \n\nRead more at blog.doordash.com, and find us on Glassdoor."
+  },
+  {
+    "name": "Airbnb",
+    "tagline": "Book accommodations around the world.",
+    "industry": "TRAVEL",
+    "description": "Founded in August of 2008 and based in San Francisco, California, Airbnb is a trusted community marketplace for people to list, discover, and book unique accommodations around the world \u2014 online or from a mobile phone. Whether an apartment for a night, a castle for a week, or a villa for a month, Airbnb connects people to unique travel experiences, at any price point, in more than 33,000 cities and 192 countries. And with world-class customer service and a growing community of users, Airbnb is the easiest way for people to monetize their extra space and showcase it to an audience of millions. \n\nNo global movement springs from individuals. It takes an entire team united behind something big. Together, we work hard, we laugh a lot, we brainstorm nonstop, we use hundreds of Post-Its a week, and we give the best high-fives in town. Headquartered in San Francisco, we have satellite offices in Dublin, London, Barcelona, Paris, Milan, Copenhagen, Berlin, Moscow, S\u00e3o Paolo, Sydney, and Singapore."
+  },
+  {
+    "name": "Coinbase",
+    "tagline": "Buy, sell, and manage cryptocurrencies.",
+    "industry": "CRYPTO",
+    "description": "Founded in June of 2012, Coinbase is a digital currency wallet and platform where merchants and consumers can transact with new digital currencies like bitcoin, ethereum, and litecoin. Our vision is to bring more innovation, efficiency, and equality of opportunity to the world by building an open financial system. Our first step on that journey is making digital currency accessible and approachable for everyone. Two principles guide our efforts. First, be the most trusted company in our domain. Second, create user-focused products that are easier and more intuitive to use."
+  },
+  {
+    "name": "Instacart",
+    "tagline": "Marketplace for grocery delivery and pickup",
+    "industry": "",
+    "description": "Instacart is the North American leader in online grocery and one of the fastest-growing companies in e-commerce. Instacart\u2019s same-day delivery and pickup services bring fresh groceries and everyday essentials to busy people and families across the U.S. and Canada in as fast as an hour. Since its founding in 2012, Instacart has become an essential service for millions of families, while also serving as an immediate, flexible earnings opportunity for hundreds of thousands of shoppers across North America. The company partners with more than 350 retailers and delivers from more than 25,000 stores across more than 5,500 cities in North America. Today, Instacart is accessible to more than 85% of households in the U.S. and more than 70% of households in Canada."
+  },
+  {
+    "name": "Oklo",
+    "tagline": "Emission free, always on power from advanced fission power plants.",
+    "industry": "SMALL-MODULAR-REACTORS",
+    "description": "About Oklo Inc.: \n\nOklo Inc. (Oklo) is developing advanced fission power plants to provide emission-free, reliable, and affordable energy. \n\nOklo received a Site Use Permit from the U.S Department of Energy, has performed successful prototypic fuel fabrication, was awarded fuel material from Idaho National Laboratory, developed the first advanced fission combined license application accepted and docketed by the U.S. Nuclear Regulatory Commission, and is developing advanced fuel recycling technologies in collaboration with the U.S. Department of Energy and national laboratories.\n\nOklo has been featured in Time, Newsweek, Wall Street Journal, CNBC, Popular Mechanics, Wired, Architectural Digest, Hyperallergic, POWER Magazine, has been the subject of a Harvard Business School case, and is featured in the Oliver Stone documentary Nuclear, among other features."
+  },
+  {
+    "name": "Dropbox",
+    "tagline": "Backup and share files in the cloud.",
+    "industry": "",
+    "description": "Dropbox is building the world\u2019s first smart workspace.\nBack in 2007, making work better for people meant designing a simpler way to keep files in sync. Today, it means designing products that reduce busywork so you can focus on the work that matters.\n\nMost \u201cproductivity tools\u201d get in your way. They constantly ping, distract, and disrupt your team\u2019s flow, so you spend your days switching between apps and tracking down feedback. It\u2019s busywork, not the meaningful stuff. We want to change this. \n\nWe believe there\u2019s a more enlightened way to work. Dropbox helps people be organized, stay focused, and get in sync with their teams."
+  },
+  {
+    "name": "GitLab",
+    "tagline": "A complete DevOps platform delivered as a single application.",
+    "industry": "DEVELOPER-TOOLS",
+    "description": "GitLab is the first single application for the entire DevOps lifecycle. Only GitLab enables Concurrent DevOps, unlocking organizations from the constraints of today\u2019s toolchain. GitLab provides unmatched visibility, radical new levels of efficiency and comprehensive governance to significantly compress the time between planning a change and monitoring its effect. This makes the software lifecycle 200% faster, radically improving the speed of business.\n\nGitLab and Concurrent DevOps collapses cycle times by driving higher efficiency across all stages of the software development lifecycle. For the first time, Product, Development, QA, Security, and Operations teams can work concurrently in a single application. There\u2019s no need to integrate and synchronize tools, or waste time waiting for handoffs. Everyone contributes to a single conversation, instead of managing multiple threads across disparate tools. And only GitLab gives teams complete visibility across the lifecycle with a single, trusted source of data to simplify troubleshooting and drive accountability. All activity is governed by consistent controls, making security and compliance first-class citizens instead of an afterthought.\n\nBuilt on Open Source, GitLab leverages the community contributions of thousands of developers and millions of users to continuously deliver new DevOps innovations. More than 100,000 organizations from startups to global enterprise organizations, including Ticketmaster, Jaguar Land Rover, NASDAQ, Dish Network and Comcast trust GitLab to deliver great software at new speeds."
+  },
+  {
+    "name": "Rigetti Computing",
+    "tagline": "Quantum coherent supercomputing.",
+    "industry": "QUANTUM-COMPUTING",
+    "description": "Rigetti Computing is building the world\u2019s most powerful computers to help solve humanity\u2019s most pressing and important problems. These systems will perform computations that today\u2019s fastest supercomputers are incapable of \u2014 unlocking entirely new classes of problems and offering a direct path to solutions. We are scientists, engineers, builders, and visionaries. We believe quantum computing is going to significantly affect health care, how we treat disease, how we generate energy, and how we feed humanity. Rigetti is the only company deploying full-stack solutions for hybrid classical/quantum computing. Our 19-qubit quantum computer is available online through our Forest platform, and the first commercially useful applications are already under exploration.\n\nWe were founded in 2013 by Chad Rigetti, and are located Berkeley and Fremont, California."
+  },
+  {
+    "name": "Matterport",
+    "tagline": "Turn physical objects and environments into 3D models in seconds.",
+    "industry": "COMPUTER-VISION",
+    "description": "Matterport is an immersive media technology company that is shaking up the 3D / VR world. Our team has built the first end-to-end system for creating, modifying, distributing, and navigating immersive 3D and virtual reality (VR) versions of real-world spaces on web and mobile devices. Matterport offers the world's most inexpensive and simplest way to capture 3D spaces. \n\nOur products include:\n- Matterport Pro Camera for capturing real spaces in 3D. It collects accurate visual and spatial data to map entire areas in minutes and is all about automation and ease of use.\n- The Matterport Cloud for processing and hosting 3D models\n- Matterport Portal, our system for viewing, editing, and managing models; collaborating with colleagues; and sharing models with others\n- Matterport 3D Showcase, a browser-based 3D media player, which allows anyone to view 3D models in their browser with no additional software\n- Matterport Core VR: All Spaces can be converted to VR and experienced on Samsung Gear VR or Google Cardboard (in beta), with additional device support coming soon.\n\nMatterport 3D media solutions power industries from real estate (residential, multi-family and commercial) and travel and hospitality (hotels, vacation rentals, and venue booking), to business listings, architecture, engineering and construction, news and entertainment, and everything in between. \n\nWe\u2019re growing fast. If you\u2019re passionate about solving cutting-edge problems in computer vision and hardware design and creating order-of-magnitude improvements in the ability to easily create and share 3D models of real world spaces, we want to talk to you. See open positions at matterport.com/jobs.\n\nTry Matterport for yourself at matterport.com/try."
+  },
+  {
+    "name": "Amplitude",
+    "tagline": "Digital Analytics Platform",
+    "industry": "DEVELOPER-TOOLS",
+    "description": "Since graduating from YC, Amplitude (W12) has made it to IPO and beyond by helping cutting edge startups become category leaders. We\u2019ve pioneered the digital analytics category to become the go-to solution for AI pioneers (Cruise, Midjourney), apps that touch millions of consumers (Doordash, Coinbase), and the best in B2B (Atlassian, Rippling, Canva). \n\nWith product analytics, experiment, CDP, session replay, and more, Amplitude\u2019s digital analytics platform shows you what your users love, where they\u2019re getting stuck, and what keeps them coming back. You want to build a generational business, and we have the capabilities and pricing plans to guide you every step of the way. Check out our special deal for YC companies and get started on your analytics journey."
+  },
+  {
+    "name": "PagerDuty",
+    "tagline": "Real-time visibility into critical apps and services all in one place.",
+    "industry": "DEVOPS",
+    "description": "PagerDuty is an operations performance platform delivering visibility and actionable intelligence across the entire incident lifecycle. Their SaaS-based solution empowers over 10,000 small, mid-size and enterprise global customers such as Comcast, eHarmony, Slack and Lululemon with the insight to intelligently respond to critical disruptions for exceptional customer experience. PagerDuty was founded to deliver a new and innovative approach to increase business response and efficiency. When brand reputation depends on customer satisfaction, PagerDuty arms businesses with the insight to proactively manage incidents and events that may impact customers across their IT environment."
+  },
+  {
+    "name": "Weave",
+    "tagline": "Customer communication and payments platform.",
+    "industry": "SAAS",
+    "description": "As the pace of innovation continues, it is growing more difficult to see the value of technology. Often meaningful information is inaccessible at the time it would be most beneficial. Weave threads together data, software and communication platforms to build stronger relationships at the point of contact by making valuable information instantly available in simple and intuitive formats. This delivers improved productivity, better collaboration and greater insights making it easier to meet the needs of patients and to build better business and clinical outcomes."
+  },
+  {
+    "name": "Ginkgo Bioworks",
+    "tagline": "Our mission is to make biology easier to engineer.",
+    "industry": "SYNTHETIC-BIOLOGY",
+    "description": "Ginkgo Bioworks is the organism company. We design custom organisms for customers across multiple markets. We build our foundries to scale the process of organism engineering using software and hardware automation. Organism engineers at Ginkgo learn from nature to develop new organisms that replace technology with biology."
+  },
+  {
+    "name": "Pardes Biosciences",
+    "tagline": "We break viruses",
+    "industry": "BIOTECH",
+    "description": "We make oral drugs to treat and prevent viral infections - like COVID-19."
+  },
+  {
+    "name": "Embark Trucks",
+    "tagline": "Self-driving semi trucks.",
+    "industry": "AUTONOMOUS-TRUCKING",
+    "description": "Embark Technology develops self-driving truck software. \n\nEmbark was the first self-driving truck company to achieve an autonomous coast-to-coast drive, the first to reach 100,000 miles driven on public roads, and the first to open a network of transfer points.\n\nEmbark went public on NASDAQ in 2021 and was acquired by Applied Intuition in 2023."
+  },
+  {
+    "name": "Lucira Health",
+    "tagline": "Next generation infectious disease test kits",
+    "industry": "HEALTH-TECH",
+    "description": "Diassess Inc. is revolutionizing the way infectious diseases are prevented, diagnosed, and monitored by developing the tools necessary to empower people to become knowledgeable about their health. We produce inexpensive, disposable health diagnostic hardware that transforms any smartphone into a portable, real-time health-monitoring device for rapid, accessible, multiplexed analysis of bodily fluids anywhere in the world."
+  },
+  {
+    "name": "Momentus",
+    "tagline": "The space infrastructure services company",
+    "industry": "COMMERCIAL-SPACE-LAUNCH",
+    "description": "Momentus is a space infrastructure services company. As a first mover, Momentus will offer the most basic, foundational services that enable businesses to flourish in space. With their experienced team of aerospace, propulsion, and robotics engineers, Momentus makes and operates cost-effective and energy-efficient in-space transport and service vehicles that utilize water plasma propulsion technology. Momentus has service agreements in place with numerous private satellite companies, government agencies, and research organizations."
+  },
+  {
+    "name": "Segment",
+    "tagline": "Software and APIs to collect, clean, and control customer data.",
+    "industry": "SAAS",
+    "description": "Segment is one place to collect customer data and send it to your tools for analytics, marketing automation, and raw data access with SQL. Implement all of your event tracking with Segment\u2019s single API instead of wrangling a new API for every new tool or database. Segment's integrations let you send your data to hundreds of tools and databases."
+  },
+  {
+    "name": "Algolia",
+    "tagline": "A developer-friendly and enterprise-grade search API.",
+    "industry": "DEVELOPER-TOOLS",
+    "description": "Our mission is to make every search interaction meaningful & rewarding, through developer-friendly and enterprise-grade APIs.\n\nAlgolia is the leading Search & Discovery API for websites and mobile apps. We help the most innovative companies across e-commerce, media and SaaS industries create powerful, relevant and scalable discovery experiences for their users. Unlike other solutions, our hosted platform reduces the complexities of building and scaling a fast, relevant digital experience and helps teams accelerate development time. More than 9,000 companies like Under Armour, Twitch, Periscope, Medium and Stripe rely on Algolia to manage 50+ billion search queries a month.\n\nFounded in 2012, we're backed by $184M in funding from Accel Partners, Alven Capital, Point Nine Capital and Storm Ventures. The team is headquartered in San Francisco with offices in Paris, London, New York, and Atlanta. To learn more, visit www.algolia.com.\n\n---\nWe\u2019re looking for talented, passionate people to build the world\u2019s best search technology. As an ownership-driven company, we seek team members who thrive under autonomy and diversity. \n\nWe're committed to building an inclusive and diverse workplace. We care about each other and the world around us, and embrace talented people regardless of their race, age, ancestry, religion, sex, gender identity, sexual orientation, marital status, color, veteran status, disability and socioeconomic background"
+  },
+  {
+    "name": "Truebill",
+    "tagline": "Live your best financial life",
+    "industry": "FINTECH",
+    "description": "Rocket Money (formerly Truebill) is a leading personal finance app that analyzes members' spending habits, identifies inefficiencies, and offers immediate methods to improve their financial health. It enables people to optimize their spending, manage subscriptions, lower their bills, and automatically set aside money to reach their savings goals. Truebill has saved members more than $100 million since 2016 and is headquartered in Silver Spring, Maryland, with offices in San Francisco. \n\nTruebill's mission is to empower people to live their best financial lives. Truebill offers members a unique understanding of their finances and a suite of valuable services that save them time and money - ultimately giving them a leg up on their financial journey. \n\nTruebill is backed by Accel, Bessemer Venture Partners, Eldridge Industries, and YCombinator."
+  },
+  {
+    "name": "Twitch",
+    "tagline": "A global community creating the future of live entertainment.",
+    "industry": "COMMUNITY",
+    "description": "Twitch is the world\u2019s leading video platform and community for gamers. More than 100 million gamers gather every month to broadcast, watch and chat about gaming. Twitch\u2019s video platform is the backbone of live and on-demand distribution for leading video game broadcasters including casual gamers, pro players, tournaments, leagues, developers and gaming media organizations. Twitch is leading a revolution in the gaming community, working to create a participatory experience that transcends gameplay. Learn more at http://twitch.tv."
+  },
+  {
+    "name": "PlanGrid",
+    "tagline": "Mobile applications for the construction industry.",
+    "industry": "CONSTRUCTION",
+    "description": "PlanGrid is the leader in construction productivity software, used on more than one million projects in 84 countries. PlanGrid's cloud-based platform empowers contractors and owners in commercial, heavy civil, and other industries to collaborate easily from their mobile devices and desktop, managing blueprints, specs, photos, RFIs, field reports, and punch lists. With over 100 million digital blueprints on its platform, PlanGrid is also the largest digital blueprint repository in the world. \n\nFounded in 2011, the company was part of Y Combinator in 2012, and has secured over $69 million in funding from Sequoia Capital, Tenaya Capital and several other top firms."
+  },
+  {
+    "name": "Bellabeat",
+    "tagline": "Tech-powered women's wellness.",
+    "industry": "FITNESS",
+    "description": "Founded in 2014, Bellabeat is a data-centered wellness femtech company behind some of the most fashionably designed tech-powered wellness products and one of the fastest-growing wellness subscription services for women. Throughout the years, Bellabeat built the go-to wellness brand with a compelling ecosystem of solutions and services focused on women\u2019s health. The success of the Leaf and Ivy wearables enabled the brand to expand to international markets and kickstart industry discussions on the importance of innovating in the design and development of tech products. Today, Bellabeat is leading the market shift with hyper-personalized holistic wellness offerings aligned with a women\u2019s menstrual cycle."
+  },
+  {
+    "name": "Cruise",
+    "tagline": "Self-driving cars.",
+    "industry": "AUTONOMOUS-DELIVERY",
+    "description": "Cruise is building the world\u2019s most advanced, all-electric, self-driving car technology to safely connect people with the places, things, and experiences they care about. Self-driving cars will help save lives, reimagine cities, redefine time in transit, and restore freedom of movement for individuals who live in dense urban settings. Acquired by GM in 2016."
+  },
+  {
+    "name": "Benchling",
+    "tagline": "Unlocking the power of biotech with modern software for modern science",
+    "industry": "SAAS",
+    "description": "Biotechnology is rewriting life as we know it, from the medicines we take, to the crops we grow, the materials we wear, and the household goods that we rely on every day. Biotech R&D is radically transforming our world, but to move at the new speed of science, scientists need better technology.\n\nBenchling\u2019s mission is to unlock the power of biotechnology. The world\u2019s biotech leaders and innovators use our R&D Cloud to power the development of breakthrough products and accelerate time to milestone and market."
+  },
+  {
+    "name": "Casetext",
+    "tagline": "We make the world's laws free and understandable.",
+    "industry": "",
+    "description": "Casetext, the most widely used A.I. legal research technology, has been adopted across the legal market from the largest Am Law 100 law firms to solo practices. Its award-winning technology offers both conventional search functionality and its CARA A.I. powered contextual search, focuses on the context of your research to help you find on-point authorities faster. Founded by a team of former litigators from top law firms, as well as Ph.D. data scientists and leading A.I. engineers, Casetext helps legal researchers find the best cases, faster, including many that they would otherwise miss. For more information, visit www.casetext.com or contact our team at contact@casetext.com."
+  },
+  {
+    "name": "Bird",
+    "tagline": "The world\u2019s largest omnichannel communications platform",
+    "industry": "MESSAGING",
+    "description": "The world\u2019s largest omnichannel communications platform.\n\nBird CRM powers communication between businesses and their customers \u2014 across any channel, always with the right context, and on every corner of the planet. Its products and solutions are the foundational building blocks to business communications across preferred channels, like SMS, Voice, WhatsApp, WeChat, Messenger, Email and more. Founded in 2011, Bird connects to billions of devices and is trusted by nearly 20,000 customers worldwide.\n\nHeadquartered in Amsterdam, Bird operates across nine global hubs \u2014 including Singapore, Dublin, Shanghai, Sydney, London, Bogota and Asuncion \u2014 and is proud to be a \u201cWork Anywhere\u201d company. Its team of 500 employees represent more than 55 nationalities."
+  },
+  {
+    "name": "Brex",
+    "tagline": "Business accounts, corporate cards, and spend management software.",
+    "industry": "",
+    "description": "Brex is the AI-powered spend platform for modern companies, from startups to enterprises. Combining corporate cards, expense management, travel, business accounts, and bill pay, Brex makes it easy to control spend before it happens with unprecedented efficiency and accuracy. Our mission is to empower employees anywhere to make better financial decisions, so we designed our platform to make expenses almost effortless with unrivaled automation of manual expense work and real-time tracking. Brex supports more countries and currencies than any other spend solution. Brex has tens of thousands of customers, including some of the most successful, high-growth companies, such as DoorDash, SeatGeek, Coinbase, ScaleAI, MasterClass, Indeed, Allbirds, and Superhuman.\n\nBrex offers:\n- Corporate cards with 10-20x higher limits\n- Business accounts with easy wires, same-day liquidity, fast global payments, and $6M in FDIC insurance\n- Reward options that include billboards, offsites, and coaching\n- Founder-friendly financial modeling tools\n- Special events and masterclasses for founders\n- Advanced spend management software as startups grow that includes global capabilities, travel, bill pay and more."
+  },
+  {
+    "name": "The Athletic",
+    "tagline": "Subscription sports media.",
+    "industry": "",
+    "description": "The Athletic is a direct-to-consumer digital sports media company committed to helping subscribers experience storytelling in a whole new way. Founded in 2016 and headquartered in San Francisco, The Athletic has over 600 full-time employees and covers more than 250 professional sports and collegiate teams in the US, Canada and the UK. The Athletic\u2019s newsroom has produced thousands of in-depth articles along with more than 120 podcasts and premium video content. The Athletic is a remote-friendly company as we have offices in San Francisco, Los Angeles, London, and Melbourne."
+  },
+  {
+    "name": "Codecademy",
+    "tagline": "The leading online learning platform for technical skills.",
+    "industry": "",
+    "description": "Working professionals are experiencing their jobs changing amidst the rise of technology and automation threatens over 800 million jobs. At the same time, software is eating the world, disrupting every major industry, and creating millions of new technology jobs that companies are eager to fill. This is the skills gap. Our mission is closing it.\n\nIn 2011, we changed the face of education by creating free interactive coding courses explored by over 45 million people. As we look to the future, we're focused on helping anyone get the skills they need for the jobs they want. We aim to bridge the gap: between companies and the workforce, people and their dream jobs. Join one of the most dynamic technology companies in New York that is changing the way the world learns.\n\nHeadquartered in New York City, our team is filled with highly curious diverse individuals whose backgrounds span tech and education. Our team is passionate about our mission: helping people get the skills they need for the jobs they want. We seek transparency, thrive on feedback, value teamwork, love evolving and never forget it's people first. We enjoy catered lunches together, company outings, guest speakers and long walks on the beach."
+  },
+  {
+    "name": "Checkr",
+    "tagline": "People infrastructure for the future of work",
+    "industry": "",
+    "description": "Checkr builds people infrastructure for the future of work. And we believe everyone should have a fair chance to work. That's why we've designed a faster\u2014and fairer\u2014way to screen job seekers. For more information on our mission and products, visit http://checkr.com."
+  },
+  {
+    "name": "Lever",
+    "tagline": "Talent Acquisition Suite that combines ATS + Talent CRM",
+    "industry": "",
+    "description": "Lever is one of the most recognized brands in talent acquisition software for high growth companies. We enable teams to post jobs, source, interview, and hire top talent. We've combined ATS & CRM into a single platform, Lever TRM. Our Talent Acquisition Suite also includes tools for recruitment marketing and analytics: Lever Nurture, Lever Advanced Analytics, and Lever Data Warehouse Sync. Our customers include Netflix, KPMG, Spotify, Talend, Cirque du Soleil, and over 5000 other customers.\n\nLever has raised $123 million in funding from Apax Digital, Adam Street Partners, Scale Venture Partners, Matrix Partners, and Y Combinator among others. With an overall gender ratio of 50:50, Lever is also fiercely committed to building a team culture that celebrates diversity and inclusion. For more information, visit https://www.lever.co/."
+  },
+  {
+    "name": "Clipboard Health",
+    "tagline": "Connects healthcare facilities with nurses nearby.",
+    "industry": "",
+    "description": "Clipboard Health exists to lift as many people up the socioeconomic ladder as possible. We dramatically improve lives by letting healthcare professionals turn extra time and ambition into career growth and financial opportunity. We achieve this with our app-based marketplace that connects healthcare facilities and healthcare professionals, allowing healthcare professionals to book on-demand shifts and healthcare facilities to access on-demand talent. Our mission is to enable healthcare professionals to work when and where they want and to enable healthcare facilities to meet their talent needs.\n\nClipboard Health is a fast-growing Series C startup with classic two-sided network effects. We have product-market fit, generate substantial revenue, and we are helping nurses fix healthcare one shift at a time.\n\nClipboard Health is a diverse and inclusive company with a global, remote-first team of hundreds of people. We\u2019ve been featured on YC\u2019s Top Companies and grown our revenue 25x in the last 18 months. We need your help to keep growing so we can serve more healthcare professionals, healthcare facilities, and patients."
+  },
+  {
+    "name": "Heap",
+    "tagline": "Captures user interactions with no code to generate analytics.",
+    "industry": "",
+    "description": "Heap automates away the annoying parts of user analytics. No manual event tracking. No messy tracking plans. No custom ETL pipelines. Just insights. For everyone on your team."
+  },
+  {
+    "name": "Sendwave",
+    "tagline": "Instant, no fee international remittances.",
+    "industry": "",
+    "description": "Sendwave's mission is to make sending money as easy and affordable as sending a text. Our app sends transfers securely from North America and Europe to Africa, Asia, and the Americas at great rates."
+  },
+  {
+    "name": "Deel",
+    "tagline": "The all-in-one HR and payroll platform for global teams",
+    "industry": "",
+    "description": "Deel is the all-in-one payroll and HR platform for global teams. Built for the way the world works today, Deel combines HRIS, payroll, compliance, benefits, performance, and equipment management into one seamless platform. With AI-powered tools and a fully owned payroll infrastructure, Deel supports every worker type in 120+ countries\u2014helping businesses scale smarter, faster, and more compliantly. Discover how Deel makes global work simple at deel.com."
+  },
+  {
+    "name": "Clever",
+    "tagline": "The platform that powers technology in the classroom.",
+    "industry": "EDUCATION",
+    "description": "Clever is a single platform for all of your digital learning programs. Founded in 2012, Clever was started by educators and technology professionals who knew that schools, teachers, and students could all benefit from the amazing learning software that was available, but key challenges stood in the way of accessing the technology. Today, half of K-12 schools in the U.S. use Clever to give students and teachers single sign-on access for any resource or file they need, and to automate software account setup and updates for district administrators. Clever gives teachers time to teach, helps districts be better informed, and makes using applications in the classroom effortless.\n\nWe are a team of more than 100 people passionate about education. If you feel the same way, you should see our openings at https://clever.com/about/jobs."
+  },
+  {
+    "name": "Caper",
+    "tagline": "Plug-and-play cashier-less retail powered by computer vision and AI",
+    "industry": "ARTIFICIAL-INTELLIGENCE",
+    "description": "Caper focuses on compacting Amazon-Go's technology (image recognition, sensor fusion and artificial intelligence) into a smart shopping cart, allowing each shopper to throw her groceries into the cart and self-checkout without cashiers. The technology is looking to fundamentally transform physical retail and rapidly scale into existing grocery stores."
+  },
+  {
+    "name": "EquipmentShare",
+    "tagline": "Cloud solutions for the construction industry.",
+    "industry": "CONSTRUCTION",
+    "description": "EquipmentShare delivers cloud solutions for the construction industry. We provide a better equipment rental experience, fleet tracking software and hardware security solutions to help contractors work smarter."
+  },
+  {
+    "name": "Reddit",
+    "tagline": "The frontpage of the internet.",
+    "industry": "COMMUNITY",
+    "description": "Founded by Steve Huffman and Alexis Ohanian in 2005, Reddit is an online community where users submit, vote, and comment on content, news, and discussions. Nicknamed \"the front page of the internet,\" Reddit is one of the top ten sites in the United States (source: Alexa), with hundreds of millions of users each month on desktop, mobile web, and our official Android/iOS apps. \n\nInterested in joining our growing team? Check out about.reddit.com/careers"
+  },
+  {
+    "name": "Fivestars",
+    "tagline": "Customer loyalty and payments platform for small businesses.",
+    "industry": "FINTECH",
+    "description": "Fivestars is a leading payment and customer loyalty platform for small local businesses. Our mission is to help businesses and communities thrive by turning every transaction into a relationship. \n\nSince launching in 2011, Fivestars has become a rewarding platform with 60 million users discovering and driving sales to 14,000+ small businesses. We help drive over $3 billion in local sales per year. More than 1 million people sign up monthly to support the local businesses that make our neighborhoods great. \n\nThe company is backed by Lightspeed, DCM, Menlo Ventures, HarbourVest, and others. \n\nTogether, let\u2019s #LoveLocal. Visit www.fivestars.com for more information."
+  },
+  {
+    "name": "Machine Zone",
+    "tagline": "Pioneers of mobile social gaming.",
+    "industry": "GAMING",
+    "description": "Live data powers everything we do\u2014from our global, multiplayer mobile games to our mobile ad buying to our live data ecosystem, Satori. MZ is creating new futures for people, enterprises, cities, and countries. The possibilities are endless."
+  },
+  {
+    "name": "Faire",
+    "tagline": "The global online platform empowering independent retail.",
+    "industry": "MARKETPLACE",
+    "description": "Faire is an innovative online marketplace that uses machine learning to match local retailers with the brands and products that uniquely fit their stores. We are using the power of technology to connect brands and independent retailers from all over the world, building a thriving community of hundreds of thousands of retailers, which has resulted in over 7 million new connections to date. Faire was founded on the belief that the future of retail is local.\n\nOur mission is to empower brands and retailers to strengthen the unique character of local communities. Our data-driven approach unburdens retailers from decades-old obstacles by helping find the right products for their shop. Plus, our straight-forward financial terms level the playing field by eliminating inventory risk and providing access to capital\u2014key offerings previously only available to big box chains. For brands, our platform provides powerful sales, marketing, and analytics tools that simplify their business and allow them to focus on what they love: making great products."
+  },
+  {
+    "name": "Fivetran",
+    "tagline": "The leader in automated data movement",
+    "industry": "SAAS",
+    "description": "Fivetran automates data movement out of, into and across cloud data platforms. We automate the most time-consuming parts of the ELT process from extracts to schema drift handling to transformations, so data engineers can focus on higher-impact projects with total pipeline peace of mind. With 99.9% uptime and self-healing pipelines, Fivetran enables hundreds of leading brands across the globe, including Autodesk, Conagra Brands, JetBlue, Lionsgate, Morgan Stanley, and Ziff Davis, to accelerate data-driven decisions and drive business growth. Fivetran is headquartered in Oakland, California, with offices around the world."
+  },
+  {
+    "name": "Optimizely",
+    "tagline": "The first all-in-one operating system for marketing",
+    "industry": "MARKETING",
+    "description": "At Optimizely, we're on a mission to help people unlock their digital potential. We do that by reinventing how marketing and product teams work to create and optimize digital experiences across all channels. With Optimizely One, our industry-first operating system for marketers, we offer teams flexibility and choice to build their stack their way with our fully SaaS, fully decoupled, and highly composable solution. We help companies around the world orchestrate their entire content lifecycle, monetize every digital experience and experiment across all customer touchpoints \u2013 all through Optimizely One, the leading digital experience platform that powers every phase of the marketing lifecycle through a single, AI-accelerated workflow. \n\nOptimizely has nearly 1500 employees across our 21 global offices and has 700+ partners. We are proud to help more than 10,000 businesses, including H&M, PayPal, Zoom, and Toyota, enrich their customer lifetime value, increase revenue and grow their brands. At Optimizely, we live each day with a simple philosophy: large enough to serve, small enough to care. Learn more at optimizely.com."
+  },
+  {
+    "name": "Flexport",
+    "tagline": "Platform for global logistics.",
+    "industry": "SAAS",
+    "description": "Founded in 2013, we believe trade can move the human race forward. That\u2019s why our mission at Flexport is to make global trade easy for everyone.\n\nWhat the internet has done for bits and bytes, Flexport is doing for physical goods: giving every business the ability to connect to any customer, wherever they are in the world. That sounds pretty straightforward, but a fragmented and inefficient global supply chain has held the world back from untapped growth and innovation. By connecting everyone in the global economy we can unlock commerce, creativity, and human progress.\n\nTo do so, we\u2019re building the platform for global logistics\u2014empowering buyers, sellers and their logistics partners with the technology and services they need to grow and innovate. \nToday, we work with more than 40,000 customers and their suppliers across industries like manufacturing, retail, electronics, consumer goods, tech, apparel, and beauty. Companies of all sizes\u2014from emerging brands to Fortune 500s\u2014used Flexport technology to move nearly $19B of merchandise across 112 countries in 2021.\n\nInterested in joining our team? Check out our open job postings on careers site and apply directly today! https://www.flexport.com/careers/jobs/"
+  },
+  {
+    "name": "WePay",
+    "tagline": "Payments for platform businesses.",
+    "industry": "FINTECH",
+    "description": "WePay is a multi-party payments API for SMB SaaS, POS Platforms, and Online Marketplaces. It was acquired by JPMorgan Chase in 2018."
+  },
+  {
+    "name": "Weebly",
+    "tagline": "Build a free website that grows with your business.",
+    "industry": "",
+    "description": "Company Information\nWeebly is a consumer service that gives people a surprisingly easy and affordable way to create a site that is as unique as they are. Weebly lets entrepreneurs start something and showcase their work. With a Weebly site, people can communicate with their clients, promote their works to potential buyers, share their story with like-minded people, and be an authority on personal and professional interests.\n\nWeebly offers a range of pricing options, including a free plan and premium plans starting at $4/month. Weebly sites are optimized to work brilliantly across computers, phones and tablets.\n\nGlobal Growth\nOver 20million people around the world have started a site on Weebly\nWeebly sites receive over 100,000,000 unique visitors each month\nWeebly is offered in 11 languages: English, French, Spanish, Italian, German, Portuguese, Dutch, Chinese, JPese, Russian and Turkish\n\nWeebly is privately funded by Sequoia Capital, Baseline Ventures, Ron Conway, and Y Combinator."
+  },
+  {
+    "name": "Flock Safety",
+    "tagline": "The first public safety operating system that eliminates crime.",
+    "industry": "HARDWARE",
+    "description": "Flock Safety provides the first public safety operating system that empowers private communities and law enforcement to work together to eliminate crime. We are committed to protecting human privacy and mitigating bias in policing with the development of best-in-class technology rooted in ethical design, which unites civilians and public servants in pursuit of a safer, more equitable society. \n\nOur Safety-as-a-Service approach includes affordable devices powered by LTE and solar that can be installed anywhere. Our technology detects and captures objective details, decodes evidence in real-time and delivers investigative leads into the hands of those who matter. \n\nWhile safety is a serious business, we are a supportive team that is optimizing the remote experience to create strong and fun relationships even when we are physically apart. Our flock of hard-working employees thrive in a positive and inclusive environment, where a bias towards action is rewarded. Flock Safety is headquartered in Atlanta and operates nationwide. We have raised $150M in our Series E led by Tiger Global at a $3.5B valuation."
+  },
+  {
+    "name": "Sqreen",
+    "tagline": "Sqreen is the application security platform for the modern enterprise",
+    "industry": "DEVSECOPS",
+    "description": "Sqreen is the application security platform for the modern enterprise. More than 800 organizations trust Sqreen to protect, observe and test their applications, APIs and microservices. As opposed to pattern-based approaches, Sqreen analyses in-app execution in real time to deliver more robust security without compromising performance."
+  }
+]
